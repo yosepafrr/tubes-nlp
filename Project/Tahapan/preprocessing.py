@@ -10,7 +10,7 @@ import string
 nltk.download('punkt')
 nltk.download('stopwords')
 
-df = pd.read_csv('hasil_scraping_skripsi.csv')
+df = pd.read_csv('./Dataset/hasil_scraping_skripsi.csv')
 
 factory = StemmerFactory()
 stemmer = factory.create_stemmer()
