@@ -3,6 +3,5 @@
 3. Implementasi TF-IDF [done]
 4. Implementasi Cosine Similarity  [done]
 5. Klasifikasi kemiripan [done]
-6. Evaluasi model
-7. Visualisasi hasil [opsional]
+6. Evaluasi model[done]
 
